@@ -10,8 +10,8 @@ Pythonを使ってWebスクレイピングやデータ収集を行う個人開�
 
 ## 🛠 最近の制作物
 
-- [コンビニ特売情報の自動収集ツール](https://github.com/your-username/konbini-scraper)
-- [Amazonレビューの自動収集＆CSV出力](https://github.com/your-username/amazon-review-crawler)
+- [コンビニ特売情報の自動収集ツール](https://github.com/cancak000/konbini-scraper)
+- [Amazonレビューの自動収集＆CSV出力](https://github.com/cancak000/amazon-review-crawler)
 
 ## 💼 お仕事受付中
 
