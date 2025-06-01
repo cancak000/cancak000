@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 はじめまして！
 
-<!--
-**cancak000/cancak000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pythonを使ってWebスクレイピングやデータ収集を行う個人開発者です。現在はクラウドソーシングでの実績を積みながら、ポートフォリオを整備しています。
 
-Here are some ideas to get you started:
+## 📌 スキルセット
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python（requests、BeautifulSoup、Selenium）
+- Git / GitHub
+- Web APIの利用、JSON解析
+
+## 🛠 最近の制作物
+
+- [コンビニ特売情報の自動収集ツール](https://github.com/your-username/konbini-scraper)
+- [Amazonレビューの自動収集＆CSV出力](https://github.com/your-username/amazon-review-crawler)
+
+## 💼 お仕事受付中
+
+ポートフォリオ強化のため、低価格・スピード納品も相談可能です。お気軽にお問合せください。
