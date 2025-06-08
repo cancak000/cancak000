@@ -7,11 +7,9 @@ TwitchのSlotアプリ(API連携込)も新たに作成しております。
 
 
 ## 📌 スキルセット
-
-- Python（requests、BeautifulSoup、Selenium）
-- Git / GitHub
-- Web APIの利用、JSON解析
-- Twitch EventSub連携スロットアプリ "iV Slot"
+- Python / Flask / Tkinter / Pygame
+- Twitch API / Webhook / OBS連携
+- Git / GitHub / クラウドワークスで実績あり
 
 ## 🛠 最近の制作物
 
