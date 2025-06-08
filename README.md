@@ -16,7 +16,7 @@ TwitchのSlotアプリ(API連携込)も新たに作成しております。
 ## 🛠 最近の制作物
 
 - [コンビニ特売情報の自動収集ツール](https://github.com/cancak000/konbini-scraper)
-- [Twitch EventSub連携スロットアプリ "iV Slot"]((https://github.com/cancak000/twitchslot))
+- [Twitch EventSub連携スロットアプリ "iV Slot"](https://github.com/cancak000/twitchslot)
 
 ## 💼 お仕事受付中
 
