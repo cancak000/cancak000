@@ -1,17 +1,22 @@
 # 👋 はじめまして！
 
-Pythonを使ってWebスクレイピングやデータ収集を行う個人開発者です。現在はクラウドソーシングでの実績を積みながら、ポートフォリオを整備しています。
+Pythonを使ってWebスクレイピングやデータ収集を行う個人開発者です。
+TwitchのSlotアプリ(API連携込)も新たに作成しております。
+
+現在はクラウドソーシングでの実績を積みながら、ポートフォリオを整備しています。
+
 
 ## 📌 スキルセット
 
 - Python（requests、BeautifulSoup、Selenium）
 - Git / GitHub
 - Web APIの利用、JSON解析
+- Twitch EventSub連携スロットアプリ "iV Slot"
 
 ## 🛠 最近の制作物
 
 - [コンビニ特売情報の自動収集ツール](https://github.com/cancak000/konbini-scraper)
-- [Amazonレビューの自動収集＆CSV出力](https://github.com/cancak000/amazon-review-crawler)
+- [Twitch EventSub連携スロットアプリ "iV Slot"]((https://github.com/cancak000/twitchslot))
 
 ## 💼 お仕事受付中
 
