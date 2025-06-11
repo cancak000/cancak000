@@ -16,7 +16,7 @@ TwitchのSlotアプリ(API連携込)も新たに作成しております。
 - [コンビニ特売情報の自動収集ツール](https://github.com/cancak000/convenience-store-scraper)
 - [Twitch EventSub連携スロットアプリ "iV Slot"](https://github.com/cancak000/twitchslot)
 - [Next.js + GSAP で作った8bit調LP](https://cancak.xyz)
-  [![My Portfolio](https://img.shields.io/badge/Visit_Portfolio-8bit_style-green?style=for-the-badge)](https://cancak.xyz)
+
 ## 💼 お仕事受付中
 
 ポートフォリオ強化のため、低価格・スピード納品も相談可能です。お気軽にお問合せください。
